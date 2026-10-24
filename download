@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.streamlit/villageon_keys.json
+.streamlit/.villageon_keys-*.tmp
